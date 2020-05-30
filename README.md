@@ -7,4 +7,4 @@ Bu projede Epilepsi Krizleri sırasında beyinden toplanan siyanllernin işlener
 
 
 ## Model
-
+![alt text](https://github.com/mcvarer/Epileptic-Seizure-Recognition/blob/master/img/Epilepsiy.png)
