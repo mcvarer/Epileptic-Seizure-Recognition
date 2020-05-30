@@ -9,7 +9,7 @@ Bu projede Epilepsi Nöbeti sırasında beyinden toplanan siyanllernin işlenere
 * _The [source](https://github.com/Mr-Jree/Epileptic-Seizure-Binary-Classification/blob/master/Seizure%20Binary%20Classfication%20Notebook.ipynb) I use to divide the dataset's training and test set into classes equal._
 
 ## Model
-![alt text](https://github.com/mcvarer/Epileptic-Seizure-Recognition/blob/master/img/Epilepsiy.png)
+![alt text](https://github.com/mcvarer/Epileptic-Seizure-Recognition/blob/master/img/Model.png)
 
 
 ## License
