@@ -1,4 +1,4 @@
-# Epileptic Seizure Recognition using LSTM
+# Epileptic Seizure Recognition using LSTM and Artificial Neural Network
 
 [![Build Status](https://travis-ci.org/keras-team/keras.svg?branch=master)](https://travis-ci.org/github/keras-team/keras)
 
